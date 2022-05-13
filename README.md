@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nidhii0929
+- 👋 Hi, I’m @nidhii0929 👩🏾‍💻
 - 👀 I’m interested in web development and software engineering.
 - 🌱 Well, just getting there one step at a time.
 - 💞️ I’m looking to collaborate on open source projects.
